@@ -1,15 +1,8 @@
-<?php
-
-require_once 'DBconnect.php';
-
-
-?>
-
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>Gron bygg | Contact</title>
+    <title>Gron bygg | Info</title>
     <link rel="stylesheet" href="style.css" />
     <link href="/libs/fontawesome/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css">
@@ -24,27 +17,11 @@ require_once 'DBconnect.php';
             <li><a href="info.html"><i class="fa fa-info fa-2x"></i></a></li>
         </ul>
     </div>
-    <table class="table" border="1">
-
-        <?php
-        $worker = mysqli_query($link, "SELECT * FROM City");
-        $worker = mysqli_fetch_all(mysqli_result, $worker);
-
-        ?>
-        <tr>
-            <td><?= $worker[1] ?></td>
-            <td><?= $worker[2] ?></td>
-            <td></td>
-            <td></td>
-            <td>Innehavare</td>
-        </tr>
-
-        <?php
-
-        ?>
-
-
-
-    </table>
+    <div>
+        <h1>Gnatiuk<br>Renovering<br>Och<br>Nybyggnad</h1>
+        <h2>GRON Bygg är en enskild firma som erbjuder tjänster inom byggverksamhet.<br>Renoveringar och tillbyggnad till företag och hushåll.<br>GRON Bygg registrerades 2021-05-27 har registrerat som arbetsgivare.</h2>
+        <h2>Gron bygg företaget är verksamt inom reparation och konstruktion.<h2>
+    </div>
+    <div class="gron"><a href="https://www.bolagsfakta.se/740514YDYJ00001-GRON_Bygg#om-foretaget" target="_blank" style="color: #000000"><h1><b>Gron bygg</b></h1><a></div>
 </body>
 </html>
