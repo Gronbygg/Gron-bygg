@@ -68,9 +68,7 @@ body{
 }
 .navbar {
     text-align: center;
-    width: 1349px;
-    margin: 0 auto;
-    background: #03658e;
+    background: #0048ff;
 }
 .navbar a {
     background-color: #0048ff;
