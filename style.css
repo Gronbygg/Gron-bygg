@@ -81,6 +81,11 @@ body{
     display: inline-block;
     margin-right: 5px;
 }
+.navbar a:hover {
+
+     background: #8AB8CC;
+
+    }
 .gron{
     position: absolute;
     top: 5%;
