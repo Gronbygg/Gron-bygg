@@ -3,10 +3,6 @@ body
     margin: 0;
     padding: 0;
     background: url(../img/img.png)
-    background: -moz-linear-gradient(top,  rgba(30,87,153,1) 0%, rgba(30,87,153,1) 1%, rgba(30,87,153,0.76) 19%, rgba(125,185,232,0.01) 74%, rgba(125,185,232,0) 75%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  rgba(30,87,153,1) 0%,rgba(30,87,153,1) 1%,rgba(30,87,153,0.76) 19%,rgba(125,185,232,0.01) 74%,rgba(125,185,232,0) 75%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  rgba(30,87,153,1) 0%,rgba(30,87,153,1) 1%,rgba(30,87,153,0.76) 19%,rgba(125,185,232,0.01) 74%,rgba(125,185,232,0) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#007db9e8',GradientType=0 ); 
     background: url('img/background/bg.jpg') 0 0/contain no-repeat;
 
 }
