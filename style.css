@@ -67,21 +67,18 @@ body{
     font-size: 25px;
 }
 .navbar {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    display: inline;
+    text-align: center;
 }
 .navbar a {
     background-color: #0048ff;
+    display: block;
+    padding: 5px 15px;
     color: #fff;
-    padding: 0;
+    font-size:150%;
     text-decoration: none;
-    display:inline-block;
-    font-size: 23px;
 }
 .navbar li {
-    display:inline-block;
+    display: inline-block;
     margin-right: 5px;
 }
 .gron{
