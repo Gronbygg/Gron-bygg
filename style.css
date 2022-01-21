@@ -1,6 +1,7 @@
 body
 {
     background: url(https://gronbygg.github.io/Gronbygg/img/img2.jpg) 50% -30% no-repeat;
+    background-size: contain;
 }
 .search-box {
     position: absolute;
