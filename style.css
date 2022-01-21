@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #2ebfff;
+    background: url(../img/img.png)
 }
 .search-box {
     position: absolute;
@@ -75,7 +75,7 @@ body
     width: 100px;
 }
 .navbar a {
-    background: url('../img/img.png')
+    background-color: #949494;
     color: #fff;
     padding: 5px;
     text-decoration: none;
