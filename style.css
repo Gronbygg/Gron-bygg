@@ -77,11 +77,11 @@ body{
     color: #fff;
     padding: 0;
     text-decoration: none;
-    display: inline;
+    display:inline-block;
     font-size: 23px;
 }
 .navbar li {
-    display: inline;
+    display:inline-block;
     margin-right: 5px;
 }
 .gron{
