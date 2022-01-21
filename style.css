@@ -1,7 +1,4 @@
 body
-{
-    background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 30% no-repeat;
-}
 .search-box {
     position: absolute;
     top: 50%;
@@ -105,7 +102,7 @@ th {
 td {
     background: #b5b5b5;
 }
+</style>
 {
     background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 30% no-repeat;
 }
-</style>
