@@ -70,7 +70,7 @@ body{
     margin: 0;
     padding: 0;
     list-style-type: none;
-    width: 100000;
+    width: 100000px;
 }
 .navbar a {
     background-color: #949494;
