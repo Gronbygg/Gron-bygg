@@ -21,6 +21,9 @@ body
     align-items: center;
     text-decoration: none;
 }
+{
+    background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 100% no-repeat;
+}
 .search-box:hover > .search-txt
 {
     width: 240px;
@@ -101,8 +104,5 @@ th {
 }
 td {
     background: #b5b5b5;
-}
-{
-    background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 100% no-repeat;
 }
 </style>
