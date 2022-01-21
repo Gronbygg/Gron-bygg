@@ -75,7 +75,7 @@ body
     width: 100px;
 }
 .navbar a {
-    background-color: #949494;
+    background: url('../img/img')
     color: #fff;
     padding: 5px;
     text-decoration: none;
