@@ -72,6 +72,8 @@ body{
     list-style-type: none;
 }
 .navbar a {
+    margin: 0;
+    padding: 0;
     background-color: #0048ff;
     color: #fff;
     padding: 5px;
