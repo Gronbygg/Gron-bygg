@@ -68,11 +68,14 @@ body{
 }
 .navbar {
     text-align: center;
+    max-width: 550px;
+    margin: 0 auto;
+    background: #03658e;
 }
 .navbar a {
     background-color: #0048ff;
     display: block;
-    padding: 5;
+    padding: 5 15;
     color: #fff;
     font-size:150%;
     text-decoration: none;
