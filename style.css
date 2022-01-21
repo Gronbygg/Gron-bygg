@@ -73,14 +73,13 @@ body{
 .navbar a {
     background-color: #0048ff;
     display: block;
-    padding: 5px 15px;
+    padding: 15px;
     color: #fff;
     font-size: 40px;
     text-decoration: none;
 }
 .navbar li {
     display: inline-block;
-    margin-right: 5px;
 }
 .navbar a:hover {
     background: #8AB8CC;
