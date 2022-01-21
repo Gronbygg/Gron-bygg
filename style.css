@@ -82,15 +82,13 @@ body{
     margin-right: 5px;
     width: 100%;
 }
-.navbar a:hover 
-{
+.navbar a:hover {
+    background: #8AB8CC;
+}
 .navbar, .navbar li {
 
     margin: 0;
     padding: 0;
-
-    }
-     background: #8AB8CC;
 
     }
 .gron{
