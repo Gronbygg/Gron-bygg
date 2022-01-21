@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: url('../img/img.png') 0 0/contain no-repeat;
+    background: url('../img/img.png') -50%/cover no-repeat;
 
 }
 .search-box {
