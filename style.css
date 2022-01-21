@@ -81,8 +81,14 @@ body{
     display: inline-block;
     margin-right: 5px;
 }
-.navbar a:hover {
+.navbar a:hover 
+{
+.navbar, .navbar li {
 
+    margin: 0;
+    padding: 0;
+
+    }
      background: #8AB8CC;
 
     }
