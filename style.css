@@ -75,14 +75,14 @@ body{
 .navbar a {
     background-color: #0048ff;
     color: #fff;
-    padding: 5px;
+    padding: 0;
     text-decoration: none;
-    font-weight: bold;
     display: inline;
     font-size: 23px;
 }
 .navbar li {
     display: inline;
+    margin-right: 5px;
 }
 .gron{
     position: absolute;
