@@ -1,4 +1,7 @@
 body
+{
+    background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 100% no-repeat;
+}
 .search-box {
     position: absolute;
     top: 50%;
@@ -20,9 +23,6 @@ body
     justify-content: center;
     align-items: center;
     text-decoration: none;
-}
-{
-    background: url(https://gronbygg.github.io/Gronbygg/img/img.png) 50% 100% no-repeat;
 }
 .search-box:hover > .search-txt
 {
