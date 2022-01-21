@@ -2,11 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background-image: url(https://gronbygg.github.io/Gronbygg/img/img.jpg); 
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    background-size: contain;
-
+    background: url(https://gronbygg.github.io/Gronbygg/img/img.jpg) 0 0/contain no-repeat;
 }
 .search-box {
     position: absolute;
