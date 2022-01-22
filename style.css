@@ -86,9 +86,9 @@ body{
 .navbar a {
     background-color: #2a489e;
     display: block;
-    padding: 10px;
+    padding: 10px fixed;
     color: #fff;
-    font-size: 35px;
+    font-size: 35px fixed;
     text-decoration: none;
 }
 .navbar li {
