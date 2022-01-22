@@ -1,14 +1,15 @@
 body{
-    html #header {
-    -webkit-box-flex: 1;
-    -ms-flex: 1 0 auto;
-    flex: 1 0 auto;
-    }
     margin: 0;
     padding: 0;
     background: url(https://gronbygg.github.io/Gronbygg/img/img2.jpg)no-repeat center center fixed;
     background-size: cover;
 }
+
+    html #header {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    }
 .search-box {
     position: absolute;
     top: 50%;
