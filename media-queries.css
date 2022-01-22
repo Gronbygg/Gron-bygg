@@ -48,13 +48,13 @@ section{
 
 @media (min-width: 575.98px){
   .header {
-    padding: 0 calc(35% - 270px);
+    padding: 0 calc(40% - 270px);
   }
 }
 
 @media (min-width: 767.98px){
   section {
-    padding: 0 calc(35% - 360px);
+    padding: 0 calc(40% - 360px);
   }
 }
 
