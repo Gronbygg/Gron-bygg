@@ -4,13 +4,13 @@ section{
 
 @media (min-width: 575.98px){
   section {
-    padding: 0 calc(40% - 270px);
+    padding: 0 calc(35% - 270px);
   }
 }
 
 @media (min-width: 767.98px){
   section {
-    padding: 0 calc(50% - 360px);
+    padding: 0 calc(35% - 360px);
   }
 }
 
@@ -41,4 +41,31 @@ section{
     ... правила для смартфонов ...
     выводим карточки товаров по 1 в ряд
   */
+}
+.header{
+  .header: 0 15px;
+}
+
+@media (min-width: 575.98px){
+  .header {
+    padding: 0 calc(35% - 270px);
+  }
+}
+
+@media (min-width: 767.98px){
+  section {
+    padding: 0 calc(35% - 360px);
+  }
+}
+
+@media (min-width: 991.98px) {
+  .header {
+    padding: 0 calc(50% - 480px);
+  }
+}
+
+@media (min-width: 1199.98px){
+  .header {
+    padding: 0 calc(50% - 590px);
+  }
 }
