@@ -70,14 +70,14 @@ body{
 }
 .navbar {
     text-align: center;
-    background: #0048ff;
+    background: #2a489e;
 }
 .navbar a {
-    background-color: #0048ff;
+    background-color: #2a489e;
     display: block;
     padding: 15px;
     color: #fff;
-    font-size: 40px;
+    font-size: 250px;
     text-decoration: none;
 }
 .navbar li {
