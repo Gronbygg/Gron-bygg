@@ -82,7 +82,7 @@ body{
 }
 .navbar li {
     display: inline-block;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .navbar a:hover {
     background: #8AB8CC;
