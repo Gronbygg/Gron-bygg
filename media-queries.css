@@ -1,50 +1,50 @@
-body {
+.header {
   padding: 0 15px;
 }
 @media (min-width: 100px){
-  body {
+ .header {
     padding: 0 calc(50% - 20px);
   }
 }
 
 @media (min-width: 200px){
-  body {
+  .header {
     padding: 0 calc(50% - 40px);
   }
 }
 
 @media (min-width: 300px) {
-  body {
+  .header {
     padding: 0 calc(50% - 80px);
   }
 }
 
 @media (min-width: 400px){
-  body {
+  .header {
     padding: 0 calc(50% - 160px);
   }
 }
 
 @media (min-width: 575.98px){
-  body {
+ .header {
     padding: 0 calc(50% - 270px);
   }
 }
 
 @media (min-width: 767.98px){
-  body {
+  .header {
     padding: 0 calc(50% - 360px);
   }
 }
 
 @media (min-width: 991.98px) {
-  body {
+  .header {
     padding: 0 calc(50% - 480px);
   }
 }
 
 @media (min-width: 1389px){
-  body {
+  .header {
     padding: 0 calc(50% - 590px);
   }
 }
