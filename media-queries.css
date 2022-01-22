@@ -1,8 +1,11 @@
-@media (max-width: 767px)
-.heeder{
-    display: -webkit-box;
-    display: -moz-flex;
-    display: -ms-flexbox;
-    display: flex;
-    min-height: calc(100vh - 60px);
+
+@media (max-width: 991px)
+.header {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 22px;
+    padding-right: 0;
 }
