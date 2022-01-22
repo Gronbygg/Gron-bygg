@@ -1,12 +1,6 @@
 .header {
   padding: 0 15px;
 
-@media (min-width: 450px){
-  .header {
-    padding: 0 calc(50% - 280px);
-  }
-}
-
 @media (min-width: 575.98px){
  .header {
     padding: 0 calc(50% - 300px);
