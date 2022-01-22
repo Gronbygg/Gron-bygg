@@ -1,21 +1,9 @@
 .header {
   padding: 0 15px;
 
-@media (min-width: 200px){
-  .header {
-    padding: 0 calc(50% - 200px);
-  }
-}
-
-@media (min-width: 300px) {
-  .header {
-    padding: 0 calc(50% - 220px);
-  }
-}
-
 @media (min-width: 400px){
   .header {
-    padding: 0 calc(50% - 240px);
+    padding: 0 calc(50% - 260px);
   }
 }
 
