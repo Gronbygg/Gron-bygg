@@ -3,7 +3,7 @@
 
 @media (min-width: 575.98px){
  .header {
-    padding: 0 calc(50% - 300px);
+    padding: 0 calc(50% - 270px);
   }
 }
 
@@ -25,34 +25,8 @@
   }
 }
 
-
-
 section{
   padding: 0 15px;
-}
-@media (min-width: 100px){
-  section {
-    padding: 0 calc(50% - 20px);
-  }
-}
-
-@media (min-width: 200px){
-  section {
-    padding: 0 calc(50% - 40px);
-  }
-}
-
-@media (min-width: 300px) {
-  section {
-    padding: 0 calc(50% - 80px);
-  }
-}
-
-@media (min-width: 400px){
-  section {
-    padding: 0 calc(50% - 160px);
-  }
-}
 
 @media (min-width: 575.98px){
   section {
