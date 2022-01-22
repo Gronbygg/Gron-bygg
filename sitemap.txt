@@ -1,1 +1,8 @@
-https://gronbygg.github.io/Gronbygg
+https://gronbygg.github.io/Gronbygg/index.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gronbygg.github.io/Gronbygg/index.html</loc>
+    <lastmod>2022-01-22</lastmod>
+  </url>
+</urlset>
