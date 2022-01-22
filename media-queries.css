@@ -1,0 +1,10 @@
+@media only screen and (max-midth: 992px){
+.wwapper{
+  width: 750px;
+  }
+}
+@media only screen and (max-midth: 768px){
+.wwapper{
+  width: 450px;
+  }
+}
