@@ -75,9 +75,9 @@ body{
 .navbar a {
     background-color: #2a489e;
     display: block;
-    padding: 15px;
+    padding: 10px;
     color: #fff;
-    font-size: 50px;
+    font-size: 35px;
     text-decoration: none;
 }
 .navbar li {
@@ -88,7 +88,7 @@ body{
 }
 .navbar, .navbar li {
 
-    margin: 0;
+    margin: 3px;
     padding: 0;
 
     }
