@@ -20,7 +20,7 @@ body {
   }
 }
 
-@media (min-width: 1500px){
+@media (min-width: 1389px){
   body {
     padding: 0 calc(50% - 590px);
   }
