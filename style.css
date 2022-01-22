@@ -111,6 +111,14 @@ body{
     color: #000000;
     text-decoration: none;
 }
+.gron{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+}
 .info{
     background: #fff;
 }
