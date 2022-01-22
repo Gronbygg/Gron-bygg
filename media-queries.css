@@ -16,13 +16,13 @@ section{
 
 @media (min-width: 991.98px) {
   section {
-    padding: 0 calc(50% - 480px);
+    padding: 0 calc(35% - 480px);
   }
 }
 
 @media (min-width: 1199.98px){
   section {
-    padding: 0 calc(50% - 590px);
+    padding: 0 calc(35% - 590px);
   }
 }
 
