@@ -68,6 +68,11 @@ body{
     height: 60px;
     font-size: 25px;
 }
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 25px;
+    }
+}
 .navbar {
     text-align: center;
     background: #2a489e;
@@ -82,7 +87,6 @@ body{
 }
 .navbar li {
     display: inline-block;
-    padding: 20px;
 }
 .navbar a:hover {
     background: #8AB8CC;
