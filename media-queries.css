@@ -1,6 +1,29 @@
 body {
   padding: 0 15px;
 }
+@media (min-width: 400px){
+  body {
+    padding: 0 calc(50% - 20px);
+  }
+}
+
+@media (min-width: 200px){
+  body {
+    padding: 0 calc(50% - 40px);
+  }
+}
+
+@media (min-width: 300px) {
+  body {
+    padding: 0 calc(50% - 80px);
+  }
+}
+
+@media (min-width: 400px){
+  body {
+    padding: 0 calc(50% - 160px);
+  }
+}
 
 @media (min-width: 575.98px){
   body {
