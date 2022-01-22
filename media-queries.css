@@ -1,7 +1,7 @@
 body {
   padding: 0 15px;
 }
-@media (min-width: 400px){
+@media (min-width: 100px){
   body {
     padding: 0 calc(50% - 20px);
   }
@@ -54,7 +54,7 @@ body {
 section{
   padding: 0 15px;
 }
-@media (min-width: 400px){
+@media (min-width: 100px){
   section {
     padding: 0 calc(50% - 20px);
   }
