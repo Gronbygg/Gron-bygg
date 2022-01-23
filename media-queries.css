@@ -2,6 +2,12 @@
   padding: 0 15px;
 }
 
+@media (min-width: 400.98px){
+  .1 {
+    padding: 0 calc(40% - 270px);
+  }
+}
+
 @media (min-width: 575.98px){
   .1 {
     padding: 0 calc(30% - 270px);
