@@ -109,7 +109,8 @@ body{
     text-shadow: #5dc8e5 0 0 10px; /* Свечение голубого цвета */
 }
 .info{
-    background: #fff;
+    color: #0083bd;
+    text-shadow: #5dc8e5 0 0 10px; /* Свечение голубого цвета */
 }
 <style>
     th, td {
