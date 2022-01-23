@@ -106,15 +106,8 @@ body{
     max-width: 230px;
     font-size: 30px;
     color: #000000;
-    background: #fff;
-}
-.gron2 {
-    position: relative;
-    top: 25px;
-    left: 540px; 
-    max-width: 230px;
-    font-size: 30px;
-    color: #000000;
+    font: 2em Arial, sans-serif;
+    text-shadow: White 0 0 2px;
     background: #fff;
 }
 .info{
