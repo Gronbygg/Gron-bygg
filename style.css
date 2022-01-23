@@ -106,7 +106,7 @@ body{
 .gron {
     position: relative;
     top: 20px;
-    left: 0%;
+    left: 0px;
     font-size: 30px;
     color: #000000;
     background: #fff;
@@ -114,7 +114,7 @@ body{
 .gron2 {
     position: relative;
     top: 25px;
-    left: 0%;
+    left: 0px;
     font-size: 30px;
     color: #000000;
     background: #fff;
