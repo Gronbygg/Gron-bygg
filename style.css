@@ -106,11 +106,11 @@ body{
     max-width: 230px;
     font-size: 30px;
     color: #000000;
-    text-shadow: #fff 0 0 10px; /* Свечение голубого цвета */
+    text-shadow: #fff 0 0 20px; /* Свечение голубого цвета */
 }
 .info{
     color: #000000;
-    text-shadow: #fff 0 0 10px; /* Свечение голубого цвета */
+    text-shadow: #fff 0 0 20px; /* Свечение голубого цвета */
 }
 <style>
     th, td {
