@@ -74,11 +74,7 @@ body{
     height: 60px;
     font-size: 25px;
 }
-@media screen and (max-width: 480px) {
-    h1 {
-        font-size: 25px;
-    }
-}
+
 .navbar {
     text-align: center;
     background: #2a489e;
