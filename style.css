@@ -104,7 +104,7 @@ body{
 
     }
 .gron {
-    position: fixed;
+    position: relative;
     top: 20px;
     left: 40%;
     font-size: 30px;
@@ -112,7 +112,7 @@ body{
     text-decoration: none;
 }
 .gron2 {
-    position: fixed;
+    position: relative;
     top: 25px;
     left: 40%;
     font-size: 30px;
