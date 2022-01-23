@@ -105,12 +105,12 @@ body{
     left: 540px; 
     max-width: 230px;
     font-size: 30px;
-    color: #0083bd;
-    text-shadow: #5dc8e5 0 0 10px; /* Свечение голубого цвета */
+    color: #000000;
+    text-shadow: #fff 0 0 10px; /* Свечение голубого цвета */
 }
 .info{
-    color: #0083bd;
-    text-shadow: #5dc8e5 0 0 10px; /* Свечение голубого цвета */
+    color: #000000;
+    text-shadow: #fff 0 0 10px; /* Свечение голубого цвета */
 }
 <style>
     th, td {
