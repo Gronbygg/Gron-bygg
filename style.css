@@ -106,20 +106,19 @@ body{
 .gron {
     position: relative;
     top: 20px;
-    left: 25px;
+    left: 540px; 
+    max-width: 230px;
     font-size: 30px;
     color: #000000;
     background: #fff;
-    text-align: center;
 }
 .gron2 {
     position: relative;
     top: 25px;
-    left: 25px;
-    font-size: 30px;
+    left: 540px; 
+    max-width: 230px;
     color: #000000;
     background: #fff;
-    text-align: center;
 }
 .info{
     background: #fff;
