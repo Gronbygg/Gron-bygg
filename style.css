@@ -110,14 +110,16 @@ body{
     font-size: 30px;
     color: #000000;
     background: #fff;
+text-align: center
 }
 .gron2 {
     position: relative;
     top: 25px;
-    left: 0px;
+    left: 40%;
     font-size: 30px;
     color: #000000;
     background: #fff;
+text-align: center
 }
 .info{
     background: #fff;
