@@ -1,27 +1,27 @@
-section{
+.1{
   padding: 0 15px;
 }
 
 @media (min-width: 575.98px){
-  section {
+  .1 {
     padding: 0 calc(30% - 270px);
   }
 }
 
 @media (min-width: 767.98px){
-  section {
+  .1 {
     padding: 0 calc(30% - 360px);
   }
 }
 
 @media (min-width: 991.98px) {
-  section {
+  .1 {
     padding: 0 calc(30% - 480px);
   }
 }
 
 @media (min-width: 1199.98px){
-  section {
+  .1 {
     padding: 0 calc(30% - 590px);
   }
 }
